@@ -1,0 +1,21 @@
+.--active-link {
+  color: #334B4A;
+  font-weight: 700;
+}
+
+.link {
+  color: #A8AFC7;
+}
+
+.link:hover, .--active-link:hover {
+  color: #334B4A
+}
+
+.navbar {
+  background-color: #d3ecea;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 2rem;
+  padding: 1rem 2rem;
+}

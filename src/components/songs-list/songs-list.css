@@ -1,0 +1,37 @@
+.songs-list {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	background: #d3ecea;
+}
+
+.song__wrapper {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	gap: 2rem;
+	align-items: center;
+	box-shadow: 5px 10px 5px #babcc2;
+}
+
+.song__wrapper button {
+	max-height: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.song__wrapper button:hover {
+  border: none;
+}
+
+.song__wrapper button:hover {
+	background-color: #7fffd4;
+	border: none;
+}
+
+.song__wrapper .song {
+	margin: 1rem 1rem;
+	width: 200px;
+}

@@ -1,0 +1,15 @@
+.control-bar {
+  padding: 1rem;
+  margin-top: 1rem;
+  background: #9CB4B2;
+  box-shadow: 5px 10px 5px #babcc2;
+}
+
+.control-bar button{
+  margin: 0 1rem;
+} 
+
+.control-bar p{
+ color:#213547;
+ font-weight: 600;
+} 

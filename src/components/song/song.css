@@ -1,0 +1,20 @@
+.--active-song {
+  color: #D92F84;
+}
+
+.song h1{
+  font-family: 'Poppins';
+  font-size: 32px;
+  font-weight: 600
+}
+
+.song p{
+  font-family: 'Noto Sans';
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.current-song {
+  margin: 2rem;
+}
