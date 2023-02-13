@@ -21,11 +21,11 @@ This application allows you to browse through a list of songs and has the follow
 - There is a special button that allows you to change the operation of the next and previous buttons, it has three modes: 
 
 
-1. Not replaying - Songs are not replayed, if you are on the first song you cannot go backwards, and if you get to the last song you cannot go forwards. 
+1. **Not replaying** - Songs are not replayed, if you are on the first song you cannot go backwards, and if you get to the last song you cannot go forwards. 
 
-2. Replaying all - The list of songs is repeated, if the user is on the last song and presses the next button, the first song in the list will be re-selected, in the same way if the user is on the first song and presses the previous button, the last song in the list will be selected. 
+2. **Replaying all** - The list of songs is repeated, if the user is on the last song and presses the next button, the first song in the list will be re-selected, in the same way if the user is on the first song and presses the previous button, the last song in the list will be selected. 
 
-3. Replaying one - Pressing the next or previous button will keep the song that was selected.
+3. **Replaying one** - Pressing the next or previous button will keep the song that was selected.
 
 ---
 
